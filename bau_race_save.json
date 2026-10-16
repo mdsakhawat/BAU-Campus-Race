@@ -1,0 +1,36 @@
+{
+  "best_laps": {
+    "osm_stadium": 24.233
+  },
+  "best_tours": {
+    "osm_aet": 105.3
+  },
+  "wins": 0,
+  "fullscreen": false,
+  "muted": false,
+  "difficulty": "easy",
+  "car": 1,
+  "color": 4,
+  "track": 1,
+  "laps": 2,
+  "mode": 0,
+  "time": 1,
+  "weather": 0,
+  "visited": [
+    "csm",
+    "rail_station",
+    "ag_engg",
+    "jobbar_moor",
+    "kr_market",
+    "river_ghat",
+    "botanical",
+    "shaheed_minar",
+    "bijoy71",
+    "museum",
+    "library",
+    "agri",
+    "tsc",
+    "stadium",
+    "railway"
+  ]
+}
